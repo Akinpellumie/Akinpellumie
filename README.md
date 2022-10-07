@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Sotware Engineer
 ----------------
 
-I am a versatile Software Engineer with expertise in building mobile, web, and desktop applications. My Set Skills (From Top to Mid). Xamarin.Forms > Flutter > Native Android; AppCenter > Azure > Docker > Kubernetes VueJs > ReactJs MySQL > MongoDB... Languages (From Top to Mid) C# > Dart > Java > Kotlin JavaScript > Rust
+I am a versatile Software Engineer with expertise in building mobile, web, and desktop applications. Recognized for actively learning and picking up tools necessary to get things done. A proactive developer with competency in effective communication, user experience and a good manager of time.
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [akinlade3195@gmail.com](mailto:akinlade3195@gmail.com)
